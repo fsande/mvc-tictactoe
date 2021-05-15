@@ -1,2 +1,5 @@
 https://hackernoon.com/writing-a-simple-mvc-model-view-controller-app-in-vanilla-javascript-u65i34lx
 
+El fichero bundle.js que se ejecuta está construido con webpack
+https://webpack.js.org/
+
